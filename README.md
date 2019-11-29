@@ -1,5 +1,5 @@
 # AIClass
-- Artificial Inteligence class in Hanyang University (2019-2)
+- Artificial Inteligence class (2019-2)
 
 ## Assignment #1
 
